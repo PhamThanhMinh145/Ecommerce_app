@@ -1,0 +1,8 @@
+morgan: theo dõi trạng thái trả về mỗi khi hành động 1 request In postman
+slugify: auto copy content of a field to another field when use POST
+
+melter: is used to handle our multi-part form data
+
+sharp : use to modify image (change image, change dimensions (size) , change image format, change quality)
+
+
